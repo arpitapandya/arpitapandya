@@ -1,8 +1,6 @@
 ### Hi there I'm Arpita Pandya👋
 
-<!--
-**arpitapandya/arpitapandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+```javascript
 const skills = {
     front-end : {
         languages : ["HTML", "CSS", "JavaScript", "TypeScript"],
@@ -15,6 +13,7 @@ const skills = {
     testing : ["Jasmine", "Jest", "@testing-library/react", "unittest"],
     database : ["PostgreSQL"]
 };
+```
 
 Here are some ideas to get you started:
 
