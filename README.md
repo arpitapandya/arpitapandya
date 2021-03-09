@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, AWS
 - 👯 I’m looking to collaborate on challenging project
 - 😄 Pronouns: she/her
--->
