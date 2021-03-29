@@ -18,6 +18,6 @@ const skills = {
 Here are some ideas to get you started:
 
 - 🔭 I’m a Software Engineer
-- 🌱 I’m currently learning React, AWS
+- 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate on challenging project
 - 😄 Pronouns: she/her
