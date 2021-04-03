@@ -11,7 +11,7 @@ const skills = {
         frameworks : ["Flask", "Express"] 
     }, 
     testing : ["Jasmine", "Jest", "@testing-library/react", "unittest"],
-    database : ["PostgreSQL"]
+    database : ["PostgreSQL", "MongoDB"]
 };
 ```
 
