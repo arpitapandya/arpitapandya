@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Software Engineer
 - 🌱 I’m currently learning Docker and Kubernetes
-- 👯 I’m looking to collaborate on challenging project
+- 👯 I’m looking to collaborate on challenging projects
+- 💬 Ask me Anything.
 - 😄 Pronouns: she/her
